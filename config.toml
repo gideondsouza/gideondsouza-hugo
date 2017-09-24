@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Gideon Dsouza"
+theme="hugo-tranquilpeak-theme"
+sidebarBehavior = 1
+
+[taxonomies]
+  tag = "tags"

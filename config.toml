@@ -1,4 +1,4 @@
-baseURL = "gideondsouza.netlify.com/"
+baseURL = "gideondsouza.netlify.com"
 languageCode = "en-us"
 title = "Gideon Dsouza"
 theme="hugo-tranquilpeak-theme"

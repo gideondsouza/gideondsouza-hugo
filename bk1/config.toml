@@ -1,0 +1,8 @@
+baseURL = "https://gideondsouza.netlify.com"
+languageCode = "en-us"
+title = "Gideon Dsouza"
+theme="hugo-tranquilpeak-theme"
+sidebarBehavior = 1
+
+[taxonomies]
+  tag = "tags"
